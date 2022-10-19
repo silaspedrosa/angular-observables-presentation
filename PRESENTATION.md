@@ -3,19 +3,25 @@
 ## Introduction
 
 Performance &
-Elegância &
-Possibilidades &
-Matemática &
-Mini-prova
 
-### History
+Elegância &
+
+Possibilidades &
+
+Matemática &
+
+Mini-prova feelings
+
+## History
 
 Do clááássico Gang of Four:
+
 ![GoF Cover](./presentation-assets/gof-cover.jpg)
 
 ![GoF](./presentation-assets/observer-pattern-gof.png)
 
 [The Reactive Manifesto (2014)](https://www.reactivemanifesto.org/):
+
 ![reac](./presentation-assets/reactive-manifesto-complete.png)
 
 ![ReactiveX Project](./presentation-assets/reactivex.png)
@@ -39,6 +45,7 @@ Do clááássico Gang of Four:
 ## Observables big picture
 
 Streams?
+
 Observables?
 
 ---
@@ -49,8 +56,6 @@ tal:
 ```typescript
 const x: 🍬 = 🍫
 ```
-
----
 
 ---
 
@@ -74,9 +79,10 @@ const x: Stream<🍬> = ❓
 
 👯‍♂️ _Experimento paçoquita_ 👯‍♂️
 
-### Analogias
+### Analogies
 
-Rio
+River
+
 ![Rio péssima imagem](./presentation-assets/river.jpg)
 
 - Intermitentes/Perenes
@@ -86,6 +92,7 @@ Rio
 ---
 
 Encanamento, Caixa d'água, pias
+
 ![Encanamento](./presentation-assets/encanamento.png)
 
 - Consumers/Subscriptions
@@ -94,11 +101,13 @@ Encanamento, Caixa d'água, pias
 - Torneiras abertas e caixa d'água vazia -> zero fluxo
 - async!
 
-### Basic working
+## Basic working
 
 1. Source (`interval`, `of`, `from`)
 1. Operators (`map`, `filter`, `take`, `skip`, `delay`, `debounce`, `tap`)
 1. Consumer (`subscribe`)
+
+![Working](./presentation-assets/working.png)
 
 ## Experiment
 
@@ -124,4 +133,10 @@ Encanamento, Caixa d'água, pias
 
 ## Playground
 
+![Stackblitz](./presentation-assets/stackblitz.png)
+
+[![Stackblitz Angular](./presentation-assets/angular-stackblitz.png)](https://stackblitz.com/fork/angular-ivy)
+
 ## Login Form with Observables
+
+<iframe src="https://giphy.com/embed/aMEHmZLDonNSjkPuam" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/etrade-off-the-grid-talking-baby-etrade-aMEHmZLDonNSjkPuam">via GIPHY</a></p>
