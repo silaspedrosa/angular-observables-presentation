@@ -119,8 +119,4 @@ Encanamento, Caixa d'água, pias
 
 ## Login Form with Observables
 
-<iframe src="https://giphy.com/embed/aMEHmZLDonNSjkPuam" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/etrade-off-the-grid-talking-baby-etrade-aMEHmZLDonNSjkPuam">via GIPHY</a></p>
-
-## Login Form with Observables
-
 ![Let's do this](./presentation-assets/babygif.gif)
