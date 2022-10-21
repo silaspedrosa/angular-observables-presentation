@@ -109,29 +109,9 @@ Encanamento, Caixa d'água, pias
 
 ![Working](./presentation-assets/working.png)
 
-## Experiment
+## 🏷️Full observable experiment👩‍🔬
 
-### number -> even/odd -> filter odd (joke 13/22)
-
-### boring
-
-### number -> even/odd -> filter odd <= 13
-
-### impossible
-
-### number -> filter <= 13 -> even/odd
-
-### boring, but ok
-
-### number -> tap -> filter <= 13 -> even/odd
-
-### number -> filter <= 13 tap -> -> even/odd
-
-### number -> filter <= 13 -> even/odd -> tap
-
-### (all with some fit person)
-
-## Playground
+## 🎾Playground🏀
 
 ![Stackblitz](./presentation-assets/stackblitz.png)
 
@@ -140,3 +120,7 @@ Encanamento, Caixa d'água, pias
 ## Login Form with Observables
 
 <iframe src="https://giphy.com/embed/aMEHmZLDonNSjkPuam" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/etrade-off-the-grid-talking-baby-etrade-aMEHmZLDonNSjkPuam">via GIPHY</a></p>
+
+## Login Form with Observables
+
+![Let's do this](./presentation-assets/babygif.gif)
